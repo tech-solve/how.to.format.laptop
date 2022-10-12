@@ -1,6 +1,6 @@
 # How to Format Laptop?
 
-[![How to Format Laptop](redd.png)](https://github.com/tech-solve/how.to.format.laptop)
+[![How to Format Laptop](redd.png)](https://icncomputer.com/how-to-format-laptop-windows-10/)
 
 
 Has your computer recently been attacked by a virus that you can’t seem to get rid of? The only solution might be to reformat your laptop. This will completely erase the hard drive and is the most effective way to clean your computer.
